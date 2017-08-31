@@ -5,7 +5,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 
 xml_file = xlwt.Workbook()
-table = xml_file.add_sheet('mima')
+table = xml_file.add_sheet('shu')
 
 driver = webdriver.Firefox()
 driver.implicitly_wait(60)
@@ -14,7 +14,7 @@ try:
     row = 0
     for month in range(len(days)):
         for day in range(days[month]):
-            url = 'http://www.meiguoshenpo.com/mima/%02d%02d.html' % (month + 1, day + 1)
+            url = 'http://www.meiguoshenpo.com/shengrimingren/%02d%02d.html' % (month + 1, day + 1)
             print(url)
             driver.get(url)
             WebDriverWait(driver, 30, 0.5).until(ec.visibility_of_element_located((By.XPATH, '//html')))

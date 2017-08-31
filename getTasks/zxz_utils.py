@@ -43,5 +43,10 @@ def get_last_day():
 def quit_driver():
     if m_driver is not None:
         m_driver.quit()
+    pass
+
+if __name__ == '__main__':
+    exec(open('main.py', encoding='utf-8').read())
+    pass
 
 

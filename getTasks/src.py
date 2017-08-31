@@ -161,4 +161,6 @@ class SrcUnit:
 
 # SrcUnit().get_tasks('09 月 16 日')
 
-
+if __name__ == '__main__':
+    exec(open('main.py', encoding='utf-8').read())
+    pass

@@ -73,3 +73,6 @@ class DesUnit:
             self.insert(task_list[i])
         pass
 
+if __name__ == '__main__':
+    exec(open('main.py', encoding='utf-8').read())
+    pass

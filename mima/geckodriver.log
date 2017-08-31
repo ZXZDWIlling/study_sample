@@ -360,9 +360,8 @@ JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d
 JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
 JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
 JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
-1504074295818	geckodriver	INFO	geckodriver 0.18.0
-1504074295825	geckodriver	INFO	Listening on 127.0.0.1:54994
-1504074297879	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+te	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
 1504074298722	Marionette	INFO	Listening on port 55000
 1504074298949	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
@@ -423,3 +422,365 @@ JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d
 JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
 JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
 JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 18676] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 18676] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1504089991190	geckodriver	INFO	geckodriver 0.18.0
+1504089991195	geckodriver	INFO	Listening on 127.0.0.1:50063
+1504089993215	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504089994134	Marionette	INFO	Listening on port 50069
+1504089994269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504090071500	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504090071502	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 14092] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 14092] WARNING: pipe errorJavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[GFX1-]: Failed to allocate a surface due to invalid size (CDT) Size(0,0)
+[GFX1-]: Failed to allocate a surface due to invalid size (CDT) Size(0,0)
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1504091152281	geckodriver	INFO	geckodriver 0.18.0
+1504091152287	geckodriver	INFO	Listening on 127.0.0.1:63448
+1504091154337	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504091155189	Marionette	INFO	Listening on port 63454
+1504091155453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[GFX1-]: Failed to allocate a surface due to invalid size (CDT) Size(0,0)
+[GFX1-]: Failed to allocate a surface due to invalid size (CDT) Size(0,0)
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 7508] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 7508] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 36624] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1504141722938	geckodriver	INFO	geckodriver 0.18.0
+1504141722954	geckodriver	INFO	Listening on 127.0.0.1:49954
+1504141725010	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504141726288	Marionette	INFO	Listening on port 49962
+1504141726604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1504141981896	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9A0025,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 5844] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 5844] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1504148843175	geckodriver	INFO	geckodriver 0.18.0
+1504148843181	geckodriver	INFO	Listening on 127.0.0.1:54228
+1504148845236	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504148846127	Marionette	INFO	Listening on port 54237
+1504148846365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1504148865668	geckodriver	INFO	geckodriver 0.18.0
+1504148865674	geckodriver	INFO	Listening on 127.0.0.1:54467
+1504148867712	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504148868615	Marionette	INFO	Listening on port 54476
+1504148868855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504148921704	geckodriver	INFO	geckodriver 0.18.0
+1504148921711	geckodriver	INFO	Listening on 127.0.0.1:54714
+1504148923773	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504148924746	Marionette	INFO	Listening on port 54728
+1504148924880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1504149030891	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504149030895	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x840010,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will bJavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+n/ipc_channel_win.cc, line 345
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9A0025,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 8736] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1504149226742	geckodriver	INFO	geckodriver 0.18.0
+1504149226749	geckodriver	INFO	Listening on 127.0.0.1:55293
+1504149228793	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504149229680	Marionette	INFO	Listening on port 55301
+1504149229923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 7916] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 7916] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1504149260201	geckodriver	INFO	geckodriver 0.18.0
+1504149260209	geckodriver	INFO	Listening on 127.0.0.1:55489
+1504149262207	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504149263121	Marionette	INFO	Listening on port 55499
+1504149263256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504149351027	geckodriver	INFO	geckodriver 0.18.0
+1504149351034	geckodriver	INFO	Listening on 127.0.0.1:55728
+1504149353076	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504149353997	Marionette	INFO	Listening on port 55743
+1504149354136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 6868] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 6868] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1504149402191	geckodriver	INFO	geckodriver 0.18.0
+1504149402198	geckodriver	INFO	Listening on 127.0.0.1:55936
+1504149404246	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504149405126	Marionette	INFO	Listening on port 55944
+1504149405365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504149487482	geckodriver	INFO	geckodriver 0.18.0
+1504149487489	geckodriver	INFO	Listening on 127.0.0.1:56178
+1504149489504	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504149490387	Marionette	INFO	Listening on port 56191
+1504149490633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1504149598779	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504149598781	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504149629386	geckodriver	INFO	geckodriver 0.18.0
+1504149629393	geckodriver	INFO	Listening on 127.0.0.1:56575
+1504149631436	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504149632361	Marionette	INFO	Listening on port 56582
+1504149632597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504149680007	geckodriver	INFO	geckodriver 0.18.0
+1504149680015	geckodriver	INFO	Listening on 127.0.0.1:56785
+1504149682060	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504149683023	Marionette	INFO	Listening on port 56798
+1504149683162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://pos.baidu.com/xcgm?rtbid=1967480&rdid=9223372032564411810&dc=2&di=473557&dri=0&dis=0&dai=0&ps=101x183&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1504149684479&ti=365%E5%A4%A9%E8%AF%9E%E7%94%9F%E7%9F%B3%E5%A4%A7%E5%85%A8%E4%B9%8B%E4%BA%8C%E6%9C%88%20-%20%E7%BE%8E%E5%9B%BD%E7%A5%9E%E5%A9%86%E6%98%9F%E5%BA%A7%E7%BD%91&ari=2&dbv=0&drs=1&pcs=1366x633&pss=1366x633&cfv=0&cpl=19&chi=1&cce=true&cec=UTF-8&tlm=1504149684&rw=633&ltu=http%3A%2F%2Fwww.meiguoshenpo.com%2Fdanshengshi%2Fd34563.html&ecd=1&uc=1366x728&pis=-1x-1&sr=1366x768&tcn=1504149685&qn=81ff64db7d65427f&dpv=81ff64db7d65427f&tt=1504149684457.45.406.408, line 83: unreachable code after return statement
+JavaScript warning: http://pos.baidu.com/xcgm?rtbid=1967480&rdid=9223372032564411810&dc=2&di=473557&dri=0&dis=0&dai=0&ps=101x183&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1504149684479&ti=365%E5%A4%A9%E8%AF%9E%E7%94%9F%E7%9F%B3%E5%A4%A7%E5%85%A8%E4%B9%8B%E4%BA%8C%E6%9C%88%20-%20%E7%BE%8E%E5%9B%BD%E7%A5%9E%E5%A9%86%E6%98%9F%E5%BA%A7%E7%BD%91&ari=2&dbv=0&drs=1&pcs=1366x633&pss=1366x633&cfv=0&cpl=19&chi=1&cce=true&cec=UTF-8&tlm=1504149684&rw=633&ltu=http%3A%2F%2Fwww.meiguoshenpo.com%2Fdanshengshi%2Fd34563.html&ecd=1&uc=1366x728&pis=-1x-1&sr=1366x768&tcn=1504149685&qn=81ff64db7d65427f&dpv=81ff64db7d65427f&tt=1504149684457.45.406.408, line 83: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1504149766470	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504149766473	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 6872] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 6872] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1504149798603	geckodriver	INFO	geckodriver 0.18.0
+1504149798611	geckodriver	INFO	Listening on 127.0.0.1:57339
+1504149800643	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504149801573	Marionette	INFO	Listening on port 57366
+1504149801712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504150057087	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-00JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 11556] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 11556] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1504150216129	geckodriver	INFO	geckodriver 0.18.0
+1504150216136	geckodriver	INFO	Listening on 127.0.0.1:58750
+1504150218162	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504150219096	Marionette	INFO	Listening on port 58757
+1504150219239	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9A0025,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 5616] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 5616] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1504150300018	geckodriver	INFO	geckodriver 0.18.0
+1504150300027	geckodriver	INFO	Listening on 127.0.0.1:59154
+1504150302074	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504150303028	Marionette	INFO	Listening on port 59161
+1504150303166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1504150365724	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Child 12916] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 12916] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1504150400565	geckodriver	INFO	geckodriver 0.18.0
+1504150400573	geckodriver	INFO	Listening on 127.0.0.1:59541
+1504150402597	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504150403531	Marionette	INFO	Listening on port 59548
+1504150403673	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1504150468946	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504150468950	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 11372] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1504150474016	geckodriver	INFO	geckodriver 0.18.0
+1504150474023	geckodriver	INFO	Listening on 127.0.0.1:59904
+1504150476067	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504150476955	Marionette	INFO	Listening on port 59911
+1504150477191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1504150608596	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504150608600	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 9924] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+n.ajax.request is not a function
+te	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504150588601	Marionette	INFO	Listening on port 60551
+1504150588747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1504150678555	geckodriver	INFO	geckodriver 0.18.0
+1504150678562	geckodriver	INFO	Listening on 127.0.0.1:60930
+1504150680599	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504150681532	Marionette	INFO	Listening on port 60938
+1504150681666	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1504150844332	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504150844335	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+LS certificate errors will be ignored for this session
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 3404] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 3404] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1504150859299	geckodriver	INFO	geckodriver 0.18.0
+1504150859308	geckodriver	INFO	Listening on 127.0.0.1:61758
+1504150861366	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504150862265	Marionette	INFO	Listening on port 61765
+1504150862509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://pos.baidu.com/ycfm?rdid=1726142&dc=3&di=u1726142&dri=0&dis=0&dai=3&ps=10419x594&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1504150865726&ti=365%E5%A4%A9%E8%AF%9E%E7%94%9F%E7%9F%B3%E5%A4%A7%E5%85%A8%E4%B9%8B%E5%8D%81%E4%BA%8C%E6%9C%88%20-%20%E7%BE%8E%E5%9B%BD%E7%A5%9E%E5%A9%86%E6%98%9F%E5%BA%A7%E7%BD%91&ari=2&dbv=0&drs=1&pcs=1349x633&pss=1349x10685&cfv=0&cpl=19&chi=1&cce=true&cec=UTF-8&tlm=1504150866&rw=633&ltu=http%3A%2F%2Fwww.meiguoshenpo.com%2Fdanshengshi%2Fd34576.html&ecd=1&uc=1366x728&pis=-1x-1&sr=1366x768&tcn=1504150866&qn=dd6395c138b7599f&tt=1504150865703.561.592.593, line 117: unreachable code after return statement
+JavaScript warning: http://pos.baidu.com/ycfm?rdid=1726142&dc=3&di=u1726142&dri=0&dis=0&dai=3&ps=10419x594&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1504150865726&ti=365%E5%A4%A9%E8%AF%9E%E7%94%9F%E7%9F%B3%E5%A4%A7%E5%85%A8%E4%B9%8B%E5%8D%81%E4%BA%8C%E6%9C%88%20-%20%E7%BE%8E%E5%9B%BD%E7%A5%9E%E5%A9%86%E6%98%9F%E5%BA%A7%E7%BD%91&ari=2&dbv=0&drs=1&pcs=1349x633&pss=1349x10685&cfv=0&cpl=19&chi=1&cce=true&cec=UTF-8&tlm=1504150866&rw=633&ltu=http%3A%2F%2Fwww.meiguoshenpo.com%2Fdanshengshi%2Fd34576.html&ecd=1&uc=1366x728&pis=-1x-1&sr=1366x768&tcn=1504150866&qn=dd6395c138b7599f&tt=1504150865703.561.592.593, line 117: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript warning: http://pos.baidu.com/ichm?rtbid=2558315&rdid=10569174&dc=2&di=3023230&dri=0&dis=0&dai=0&ps=587x874&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1504151081394&ti=1%E6%9C%8812%E6%97%A5%20-%201%E6%9C%8824%E6%97%A5%20%E7%94%9F%E6%97%A5%E6%A0%91%E4%B9%8B%E6%A6%86%E6%A0%91%EF%BC%88%E8%B4%B5%E6%97%8F%E5%9E%8B%EF%BC%89%20-%20%E7%BE%8E%E5%9B%BD%E7%A5%9E%E5%A9%86%E6%98%9F%E5%BA%A7%E7%BD%91&ari=2&dbv=0&drs=1&pcs=1349x633&pss=1349x3646&cfv=0&cpl=19&chi=3&cce=true&cec=UTF-8&tlm=1504151081&rw=633&ltu=http%3A%2F%2Fwww.meiguoshenpo.com%2Fsheng-ri-shu%2Fd37220.html&ltr=http%3A%2F%2Fwww.meiguoshenpo.com%2Fsheng-ri-shu%2F&ecd=1&uc=1366x728&pis=-1x-1&sr=1366x768&tcn=1504151082&qn=d3cb28a31a8c65d5&dpv=d3cb28a31a8c65d5&tt=1504151081371.424.445.446, line 83: unreachable code after return statement
+JavaScript warning: http://pos.baidu.com/ichm?rtbid=2558315&rdid=10569174&dc=2&di=3023230&dri=0&dis=0&dai=0&ps=587x874&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1504151081394&ti=1%E6%9C%8812%E6%97%A5%20-%201%E6%9C%8824%E6%97%A5%20%E7%94%9F%E6%97%A5%E6%A0%91%E4%B9%8B%E6%A6%86%E6%A0%91%EF%BC%88%E8%B4%B5%E6%97%8F%E5%9E%8B%EF%BC%89%20-%20%E7%BE%8E%E5%9B%BD%E7%A5%9E%E5%A9%86%E6%98%9F%E5%BA%A7%E7%BD%91&ari=2&dbv=0&drs=1&pcs=1349x633&pss=1349x3646&cfv=0&cpl=19&chi=3&cce=true&cec=UTF-8&tlm=1504151081&rw=633&ltu=http%3A%2F%2Fwww.meiguoshenpo.com%2Fsheng-ri-shu%2Fd37220.html&ltr=http%3A%2F%2Fwww.meiguoshenpo.com%2Fsheng-ri-shu%2F&ecd=1&uc=1366x728&pis=-1x-1&sr=1366x768&tcn=1504151082&qn=d3cb28a31a8c65d5&dpv=d3cb28a31a8c65d5&tt=1504151081371.424.445.446, line 83: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1504151117721	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504151119653	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
