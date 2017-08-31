@@ -35,7 +35,7 @@ def get_last_day():
     sleep(2)
     last_day = driver.find_element_by_xpath("//*[@id='home']/div/div[3]/div/div/table/tbody/tr[1]/td[7]").text.split('-')
     last_day = last_day[1] + ' 月 ' + last_day[2] + ' 日'
-    print(last_day)
+    print('last day：' + last_day)
     return last_day
     pass
 
@@ -44,6 +44,23 @@ def quit_driver():
     if m_driver is not None:
         m_driver.quit()
     pass
+
+
+def get_config():
+    """读取配置文件"""
+    config_file = open("config.txt", 'r', encoding='utf-8')
+    config = dict()
+    for line in config_file:
+        if line.startswith('#') or line.startswith('.#'):
+            continue
+        try:
+            config[line.split(':')[0]] = line.split(':')[1].rstrip()
+        except IndexError:
+            pass
+    print(config)
+    config_file.close()
+    return config
+
 
 if __name__ == '__main__':
     exec(open('main.py', encoding='utf-8').read())

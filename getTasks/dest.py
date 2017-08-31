@@ -16,14 +16,14 @@ class DesUnit:
     VAL_VESPERAE = 29
     VAL_COMPLETORIUM = 30
 
-    def __init__(self, driver=None):
+    def __init__(self, username, password, driver=None):
         self.driver = webdriver.Firefox() if driver is None else driver
         self.driver.implicitly_wait(30)
         self.driver.get('https://www.baiibai.com/static/manager/#/login')
 
         WebDriverWait(self.driver, 30, 0.5).until(ec.visibility_of_element_located((By.TAG_NAME, 'form')))
-        self.driver.find_element_by_xpath("//*[@id='app']/div/div/div[2]/form/div[1]/input").send_keys('05521397022')
-        self.driver.find_element_by_xpath("//*[@id='app']/div/div/div[2]/form/div[2]/input").send_keys('123456')
+        self.driver.find_element_by_xpath("//*[@id='app']/div/div/div[2]/form/div[1]/input").send_keys(username)
+        self.driver.find_element_by_xpath("//*[@id='app']/div/div/div[2]/form/div[2]/input").send_keys(password)
         self.driver.find_element_by_tag_name('button').click()
         WebDriverWait(self.driver, 30, 0.5).until(ec.visibility_of_element_located((By.CLASS_NAME, 'logo')))
 

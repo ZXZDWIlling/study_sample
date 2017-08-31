@@ -2382,3 +2382,46 @@ x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
 1504159278295	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
 [Child 11724] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
 [Child 11724] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1504178244421	geckodriver	INFO	geckodriver 0.18.0
+1504178244436	geckodriver	INFO	Listening on 127.0.0.1:57975
+1504178246480	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504178247377	Marionette	INFO	Listening on port 57983
+1504178247607	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504178332119	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504178332122	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 5548] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 5548] WARNING: pipe error: 1504178334829	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504178334831	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 8212] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 8212] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1504178349565	geckodriver	INFO	geckodriver 0.18.0
+1504178349565	geckodriver	INFO	Listening on 127.0.0.1:58186
+1504178351624	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504178352473	Marionette	INFO	Listening on port 58193
+1504178352707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504178466973	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504178466977	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 1064] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+will be ignored for this session
+1504178540095	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504178552103	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 8576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 8576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+wn and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 7780] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 7780] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+ch resource.
+Full stack: 
+*************************
+[Child 10076] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 10076] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
