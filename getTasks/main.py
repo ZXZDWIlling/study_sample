@@ -8,6 +8,7 @@ from requests.exceptions import ConnectionError
 
 def main():
     try:
+        print('开始操作后，不要乱点鼠标了\n\n===========================================================')
         config = zxz_utils.get_config()
         src = SrcUnit()
         task = src.get_tasks(zxz_utils.get_last_day())
@@ -19,6 +20,10 @@ def main():
         print("连不上Google翻译，自己手动添加或重新来一次")
     except:
         print("出错了，检查后台以后，自己手动添加或重新来一次")
+    else:
+        src.close()
+        out.close()
+        zxz_utils.close()
         pass
 
 

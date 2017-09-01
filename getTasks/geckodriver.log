@@ -2425,3 +2425,106 @@ Full stack:
 *************************
 [Child 10076] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
 [Child 10076] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1504227809944	geckodriver	INFO	geckodriver 0.18.0
+1504227809960	geckodriver	INFO	Listening on 127.0.0.1:49403
+1504227811941	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504227813067	Marionette	INFO	Listening on port 49410
+1504227813699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504227941511	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504227941514	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 3032] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 3032] WARNING: pipe error: 1504227942866	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504227942867	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 5176] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 5176] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1504227973327	geckodriver	INFO	geckodriver 0.18.0
+1504227973327	geckodriver	INFO	Listening on 127.0.0.1:49761
+1504227975370	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504227976187	Marionette	INFO	Listening on port 49769
+1504227976441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504228232202	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 6484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 6484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/com1504229605772	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504229606696	Marionette	INFO	Listening on port 50961
+1504229606918	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504229769187	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504229769190	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 6244] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 6244] WARNING: pipe error: 1504229773828	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504229773831	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 6444] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 6444] WARNING: pipe error: 1504230012457	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504230017380	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 356] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+ will be ignored for this session
+1504230019068	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504230019071	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 10004] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 10004] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1504230024194	geckodriver	INFO	geckodriver 0.18.0
+1504230024194	geckodriver	INFO	Listening on 127.0.0.1:51602
+1504230026253	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504230027132	Marionette	INFO	Listening on port 51609
+1504230027355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504230196271	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504230196275	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 7876] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 7876] WARNING: pipe error: 1504230196478	geckodriver	INFO	geckodriver 0.18.0
+1504230196478	geckodriver	INFO	Listening on 127.0.0.1:51902
+1504230198536	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504230199436	Marionette	INFO	Listening on port 51912
+1504230199657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504230455329	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 5168] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 5168] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc,[Child 9672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 9672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+	Failed downloading via XHR, status: 0, reason: error
+[Child 5312] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1504231234940	geckodriver	INFO	geckodriver 0.18.0
+1504231234940	geckodriver	INFO	Listening on 127.0.0.1:52936
+1504231236999	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504231237839	Marionette	INFO	Listening on port 52943
+1504231238077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504231404396	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504231404402	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 2420] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 2420] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+	Failed downloading via XHR, status: 0, reason: error
+[Child 9172] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 9172] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1504231506309	geckodriver	INFO	geckodriver 0.18.0
+1504231506325	geckodriver	INFO	Listening on 127.0.0.1:53315
+1504231508337	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504231509229	Marionette	INFO	Listening on port 53325
+1504231509451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504231765455	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 3820] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 3820] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+ch resource.
+Full stack: 
+*************************
+[Child 8604] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 8604] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+ch resource.
+Full stack: 
+*************************
+[Child 5640] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 5640] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345

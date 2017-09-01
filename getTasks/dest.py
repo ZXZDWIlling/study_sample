@@ -73,6 +73,9 @@ class DesUnit:
             self.insert(task_list[i])
         pass
 
+    def close(self):
+        self.driver.close()
+
 if __name__ == '__main__':
     exec(open('main.py', encoding='utf-8').read())
     pass

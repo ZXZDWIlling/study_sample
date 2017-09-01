@@ -4,7 +4,7 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as ec
-from googletrans import Translator
+from dictionary_tool.langconv import *
 from time import sleep
 from json.decoder import JSONDecodeError
 
@@ -23,8 +23,8 @@ class SrcUnit:
                 COL_LAUDES, COL_HORA_MEDIA, COL_VESPERAE, COL_COMPLETORIUM,)
 
     def __init__(self, driver=None):
-        # 初始化字典
-        self.translator = Translator(service_urls=['translate.google.cn'])
+        # # 初始化字典
+        # self.translator = Translator(service_urls=['translate.google.cn'])
         # 初始化selenium
         self.driver = webdriver.Firefox() if driver is None else driver
         self.driver.get('http://www.mhchina.net/index.html')
@@ -66,11 +66,12 @@ class SrcUnit:
         body = ''
         try:
             while len(text) > block_size:
-                body += self.translator.translate(text[:block_size], 'zh-cn').text
+                # body += self.translator.translate(text[:block_size], 'zh-cn').text
+                body += Converter('zh-hans').convert(text[:block_size])
                 text = text[block_size:]
             else:
-                body += self.translator.translate(text, 'zh-cn').text
-
+                # body += self.translator.translate(text, 'zh-cn').text
+                body += Converter('zh-hans').convert(text)
                 self.driver.back()
         except JSONDecodeError:
             s = body
@@ -123,6 +124,7 @@ class SrcUnit:
         day_task = []
         for col in SrcUnit.task_col:
             content = self.get_content_by_date(date, col)
+            # 去掉多余的注释
             try:
                 while True:
                     i, j = content.index('<!--'), content.index('-->')
@@ -130,6 +132,8 @@ class SrcUnit:
             except ValueError:
                 print(content)
             title = '礼仪' if col == COL_ORDO else content.split('</')[0].split('>')[-1]
+            # 去掉末尾可能的空格
+            title = title[:-6] if title.endswith('&nbsp;') else title
             day_task.append(dict(title=title, subject=self.date_to_subject[date],
                                  content=content, date=date, col=col))
         return day_task
@@ -144,6 +148,7 @@ class SrcUnit:
         #     title = '礼仪' if col == COL_ORDO else content.split('</')[0].split('>')[-1]
         #     day_task.append(dict(title=title, subject=self.date_to_subject[date],
         #                          content=content, date=date, col=col))
+        self.dates = self.driver.find_elements_by_xpath("html/body/table/tbody/tr/td[1]")
         return self.get_day_task_by_date(self.dates[row - 1].text)
         pass
 
@@ -160,6 +165,9 @@ class SrcUnit:
 # print(SrcUnit().get_content_by_row(20, COL_COMPLETORIUM, 1000))
 
 # SrcUnit().get_tasks('09 月 16 日')
+
+    def close(self):
+        self.driver.close()
 
 if __name__ == '__main__':
     exec(open('main.py', encoding='utf-8').read())

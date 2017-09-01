@@ -62,6 +62,9 @@ def get_config():
     return config
 
 
+def close():
+    m_driver.close()
+
 if __name__ == '__main__':
     exec(open('main.py', encoding='utf-8').read())
     pass
